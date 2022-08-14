@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939378886933",
+    "project_id": "hinduism-c7a9e",
+    "storage_bucket": "hinduism-c7a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939378886933:android:9b83c3b1b13a61872bc11c",
+        "android_client_info": {
+          "package_name": "com.antor.hinduism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939378886933-4p5oimlkrmb8e4v45614a4rv0esb2pjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkmkniqm8jgxtQ5sfWv2ltqC5Gul4ZQ50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939378886933-4p5oimlkrmb8e4v45614a4rv0esb2pjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
